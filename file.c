@@ -2,3 +2,5 @@
 #include<stderr.h>
 #include<stdlib.h>
 #include<stdint.h>
+
+void fptr;
