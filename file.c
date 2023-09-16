@@ -4,3 +4,5 @@
 #include<stdint.h>
 
 void fptr;
+#include<smres.h>
+
