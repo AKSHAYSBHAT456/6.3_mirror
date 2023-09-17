@@ -5,4 +5,4 @@
 
 void fptr;
 #include<smres.h>
-
+int fp;
